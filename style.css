@@ -27,7 +27,7 @@ p{
 }
 
 .welcome{
-    background: url(/img/top-banner.png);
+    background: url("/img/top-banner.png");
     background-repeat: no-repeat;
     
 }
@@ -52,7 +52,7 @@ p{
 }
 
 .dream{
-    background-image: url(img/dream-bg.png);
+    background-image: url("img/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -76,7 +76,7 @@ p{
 }
 
 .experience{
-    background: url(img/exp-bg.png);
+    background: url("img/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
