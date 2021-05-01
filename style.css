@@ -26,7 +26,7 @@ p{
 }
 
 .welcome{
-    background: url("img/top-banner.png");
+    background-image: url("img/top-banner.png");
     background-repeat: no-repeat;
     
 }
@@ -75,12 +75,12 @@ p{
 }
 
 .experience{
-    background: url("img/exp-bg.png");
+    background-image: url("img/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
 
-.experience h2{
+.experience .head{
     margin-left: 5%;
 }
 
