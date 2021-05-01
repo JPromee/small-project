@@ -1,6 +1,5 @@
 body{
     margin: 0;
-    padding: 0;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -27,7 +26,7 @@ p{
 }
 
 .welcome{
-    background: url("/img/top-banner.png");
+    background: url("img/top-banner.png");
     background-repeat: no-repeat;
     
 }
@@ -79,6 +78,10 @@ p{
     background: url("img/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+}
+
+.experience h2{
+    margin-left: 5%;
 }
 
 footer p{
